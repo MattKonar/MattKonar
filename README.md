@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MattKonar
-- 👀 I’m interested in data, forecasting, and the dataverse! 
-- 🌱 I’m currently learning data science skills.
+- 👀 I’m interested in data! 
+- 🌱 I’m currently learning data.
 - 💞️ I’m looking to collaborate on fun data projects.
 - 📫 Reach me at Matthew.Konar@gmail.com
 - 😄 Pronouns: He/Him
